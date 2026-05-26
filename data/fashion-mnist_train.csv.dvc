@@ -1,0 +1,5 @@
+outs:
+- md5: a5714b8c71977138a6c1e479c03fd67f
+  size: 133051451
+  hash: md5
+  path: fashion-mnist_train.csv
